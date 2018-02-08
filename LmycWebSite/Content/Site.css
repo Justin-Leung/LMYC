@@ -1,6 +1,29 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: #d8d8d8;
+}
+
+.navbar {
+    background-color: #0B3965;
+    border-color: #0B3965;
+}
+
+    .navbar a {
+        color: #fff;
+        font-size: 18px;
+        letter-spacing: 0.4px;
+        font-weight: 700;
+    }
+
+#logo {
+    margin-top: -30px;
+    margin-bottom: 30px;
+    height: 85px;
+}
+
+{
+    color: #ffffff;
 }
 
 /* Set padding to keep content from hitting the edges */
